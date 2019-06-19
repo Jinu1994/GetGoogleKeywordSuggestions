@@ -1,0 +1,122 @@
+[
+    {
+      "name": "Coffee Shop",
+      "parentName": "Businesses > Food & Beverage > Cafe"
+    },
+    {
+      "name": "Tianjin Restaurant",
+      "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+    },
+    {
+      "name": "Chicken Joint",
+      "parentName": "Businesses > Food & Beverage > Restaurant"
+    },
+    {
+      "name": "Hessian Restaurant",
+      "parentName": "Businesses > Food & Beverage > Restaurant > German Restaurant"
+    },
+    {
+      "name": "Armenian Restaurant",
+      "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant"
+    },
+    {
+      "name": "Kurdish Restaurant",
+      "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant"
+    },
+    {
+      "name": "Hookah Lounge",
+      "parentName": "Businesses > Food & Beverage > Bar"
+    },
+    {
+      "name": "Computer Repair Service",
+      "parentName": "Businesses > Local Service"
+    },
+    {
+      "name": "Funeral Service & Cemetery",
+      "parentName": "Businesses > Local Service"
+    },
+    {
+      "name": "Glass Blower",
+      "parentName": "Businesses > Local Service"
+    },
+    {
+      "name": "AIDS Resource Center",
+      "parentName": "Businesses > Medical & Health > Medical Center"
+    },
+    {
+      "name": "Addiction Resources Center",
+      "parentName": "Businesses > Medical & Health > Medical Service > Addiction Service"
+    },
+    {
+      "name": "Addiction Treatment Center",
+      "parentName": "Businesses > Medical & Health > Medical Service > Addiction Service"
+    },
+    {
+      "name": "Alcohol Addiction Treatment Center",
+      "parentName": "Businesses > Medical & Health > Medical Service > Addiction Service"
+    },
+    {
+      "name": "Drug Addiction Treatment Center",
+      "parentName": "Businesses > Medical & Health > Medical Service > Addiction Service"
+    },
+    {
+      "name": "Medical Cannabis Dispensary",
+      "parentName": "Businesses > Medical & Health > Medical Service > Alternative & Holistic Health Service"
+    },
+    {
+      "name": "Internet Service Provider",
+      "parentName": "Businesses > Public & Government Service > Public Utility Company"
+    },
+    {
+      "name": "E-Cigarette Store",
+      "parentName": "Businesses > Shopping & Retail"
+    },
+    {
+      "name": "Fireworks Retailer",
+      "parentName": "Businesses > Shopping & Retail"
+    },
+    {
+      "name": "Gun Store",
+      "parentName": "Businesses > Shopping & Retail"
+    },
+    {
+      "name": "Tobacco Store",
+      "parentName": "Businesses > Shopping & Retail"
+    },
+    {
+      "name": "Geologic Service",
+      "parentName": "Businesses > Commercial & Industrial > Environmental Service"
+    },
+    {
+      "name": "Acehnese Restaurant",
+      "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Indonesian Restaurant"
+    },
+    {
+      "name": "Crisis Prevention Center",
+      "parentName": "Businesses > Medical & Health > Medical Center"
+    },
+    {
+      "name": "Law Enforcement Agency",
+      "parentName": "Businesses > Public & Government Service"
+    },
+    {
+      "name": "Historical Tour Agency",
+      "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+    },
+    {
+      "name": "Juvenile Lawyer",
+      "parentName": "Businesses > Legal > Lawyer & Law Firm"
+    },
+    {
+      "name": "Paintball Center",
+      "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+    },
+    {
+      "name": "Child Protective Service",
+      "parentName": "Businesses > Public & Government Service"
+    },
+    {
+      "name": "Boxing Studio",
+      "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue > Fitness Venue"
+    }
+  ]

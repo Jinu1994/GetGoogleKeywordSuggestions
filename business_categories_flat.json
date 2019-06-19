@@ -1,0 +1,4398 @@
+[
+  {
+    "name": "Advertising Agency",
+    "parentName": "Businesses > Advertising/Marketing"
+  },
+  {
+    "name": "Copywriting Service",
+    "parentName": "Businesses > Advertising/Marketing"
+  },
+  {
+    "name": "Internet Marketing Service",
+    "parentName": "Businesses > Advertising/Marketing"
+  },
+  {
+    "name": "Market Research Consultant",
+    "parentName": "Businesses > Advertising/Marketing"
+  },
+  {
+    "name": "Marketing Agency",
+    "parentName": "Businesses > Advertising/Marketing"
+  },
+  {
+    "name": "Media Agency",
+    "parentName": "Businesses > Advertising/Marketing"
+  },
+  {
+    "name": "Merchandising Service",
+    "parentName": "Businesses > Advertising/Marketing"
+  },
+  {
+    "name": "Public Relations Agency",
+    "parentName": "Businesses > Advertising/Marketing"
+  },
+  {
+    "name": "Social Media Agency",
+    "parentName": "Businesses > Advertising/Marketing"
+  },
+  {
+    "name": "Telemarketing Service",
+    "parentName": "Businesses > Advertising/Marketing"
+  },
+  {
+    "name": "Agricultural Cooperative",
+    "parentName": "Businesses > Agriculture"
+  },
+  {
+    "name": "Agricultural Service",
+    "parentName": "Businesses > Agriculture"
+  },
+  {
+    "name": "Dairy Farm",
+    "parentName": "Businesses > Agriculture > Farm"
+  },
+  {
+    "name": "Fish Farm",
+    "parentName": "Businesses > Agriculture > Farm"
+  },
+  {
+    "name": "Livestock Farm",
+    "parentName": "Businesses > Agriculture > Farm"
+  },
+  {
+    "name": "Poultry Farm",
+    "parentName": "Businesses > Agriculture > Farm"
+  },
+  {
+    "name": "Urban Farm",
+    "parentName": "Businesses > Agriculture > Farm"
+  },
+  {
+    "name": "Automation Service",
+    "parentName": "Businesses > Commercial & Industrial"
+  },
+  {
+    "name": "Commercial & Industrial Equipment Supplier",
+    "parentName": "Businesses > Commercial & Industrial"
+  },
+  {
+    "name": "Environmental Consultant",
+    "parentName": "Businesses > Commercial & Industrial > Environmental Service"
+  },
+  {
+    "name": "Geologic Service",
+    "parentName": "Businesses > Commercial & Industrial > Environmental Service"
+  },
+  {
+    "name": "Occupational Safety and Health Service",
+    "parentName": "Businesses > Commercial & Industrial > Environmental Service"
+  },
+  {
+    "name": "Recycling Center",
+    "parentName": "Businesses > Commercial & Industrial > Environmental Service"
+  },
+  {
+    "name": "Forestry Service",
+    "parentName": "Businesses > Commercial & Industrial > Forestry & Logging"
+  },
+  {
+    "name": "Logging Contractor",
+    "parentName": "Businesses > Commercial & Industrial > Forestry & Logging"
+  },
+  {
+    "name": "Hotel Services Company",
+    "parentName": "Businesses > Commercial & Industrial"
+  },
+  {
+    "name": "Industrial Company",
+    "parentName": "Businesses > Commercial & Industrial"
+  },
+  {
+    "name": "Inventory Control Service",
+    "parentName": "Businesses > Commercial & Industrial"
+  },
+  {
+    "name": "Aircraft Manufacturer",
+    "parentName": "Businesses > Commercial & Industrial > Manufacturer/Supplier"
+  },
+  {
+    "name": "Appliance Manufacturer",
+    "parentName": "Businesses > Commercial & Industrial > Manufacturer/Supplier"
+  },
+  {
+    "name": "Bags & Luggage Company",
+    "parentName": "Businesses > Commercial & Industrial > Manufacturer/Supplier"
+  },
+  {
+    "name": "Clothing Company",
+    "parentName": "Businesses > Commercial & Industrial > Manufacturer/Supplier"
+  },
+  {
+    "name": "Apparel Distributor",
+    "parentName": "Businesses > Commercial & Industrial > Manufacturer/Supplier"
+  },
+  {
+    "name": "Glass Manufacturer",
+    "parentName": "Businesses > Commercial & Industrial > Manufacturer/Supplier"
+  },
+  {
+    "name": "Jewelry Wholesaler",
+    "parentName": "Businesses > Commercial & Industrial > Manufacturer/Supplier"
+  },
+  {
+    "name": "Jewelry & Watches Company",
+    "parentName": "Businesses > Commercial & Industrial > Manufacturer/Supplier"
+  },
+  {
+    "name": "Machine Shop",
+    "parentName": "Businesses > Commercial & Industrial > Manufacturer/Supplier"
+  },
+  {
+    "name": "Mattress Manufacturer",
+    "parentName": "Businesses > Commercial & Industrial > Manufacturer/Supplier"
+  },
+  {
+    "name": "Metal Fabricator",
+    "parentName": "Businesses > Commercial & Industrial > Metal & Steel Company"
+  },
+  {
+    "name": "Metal Plating Service Company",
+    "parentName": "Businesses > Commercial & Industrial > Metal & Steel Company"
+  },
+  {
+    "name": "Metal Supplier",
+    "parentName": "Businesses > Commercial & Industrial > Metal & Steel Company"
+  },
+  {
+    "name": "Granite & Marble Supplier",
+    "parentName": "Businesses > Commercial & Industrial > Mining Company"
+  },
+  {
+    "name": "Plastic Fabricator",
+    "parentName": "Businesses > Commercial & Industrial > Plastic Company"
+  },
+  {
+    "name": "Plastic Manufacturer",
+    "parentName": "Businesses > Commercial & Industrial > Plastic Company"
+  },
+  {
+    "name": "Textile Company",
+    "parentName": "Businesses > Commercial & Industrial"
+  },
+  {
+    "name": "Tobacco Company",
+    "parentName": "Businesses > Commercial & Industrial"
+  },
+  {
+    "name": "Archaeological Service",
+    "parentName": "Businesses > Education"
+  },
+  {
+    "name": "Academic Camp",
+    "parentName": "Businesses > Education"
+  },
+  {
+    "name": "Educational Consultant",
+    "parentName": "Businesses > Education"
+  },
+  {
+    "name": "Educational Research Center",
+    "parentName": "Businesses > Education"
+  },
+  {
+    "name": "Art School",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Day Care",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Elementary School",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "High School",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Junior High School",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Medical School",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Middle School",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Performing Arts School",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Preschool",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Private School",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Public School",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Religious School",
+    "parentName": "Businesses > Education > School"
+  },
+  {
+    "name": "Aviation School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Bartending School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Computer Training School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Cooking School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Cosmetology School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Dance School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Driving School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "First Aid Class",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Flight School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Language School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Massage School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Music Lessons & Instruction School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Nursing School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Trade School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Traffic School",
+    "parentName": "Businesses > Education > Specialty School"
+  },
+  {
+    "name": "Test Preparation Center",
+    "parentName": "Businesses > Education"
+  },
+  {
+    "name": "Tutor/Teacher",
+    "parentName": "Businesses > Education"
+  },
+  {
+    "name": "Community College",
+    "parentName": "Businesses > Education > College & University"
+  },
+  {
+    "name": "Commercial Bank",
+    "parentName": "Businesses > Finance > Bank"
+  },
+  {
+    "name": "Credit Union",
+    "parentName": "Businesses > Finance > Bank"
+  },
+  {
+    "name": "Investment Bank",
+    "parentName": "Businesses > Finance > Bank"
+  },
+  {
+    "name": "Retail Bank",
+    "parentName": "Businesses > Finance > Bank"
+  },
+  {
+    "name": "Accountant",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Bank Equipment & Service",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Franchise Broker",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Cash Advance Service",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Collection Agency",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Credit Counseling Service",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Currency Exchange",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Financial Aid Service",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Financial Consultant",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Financial Planner",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Loan Service",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Tax Preparation Service",
+    "parentName": "Businesses > Finance > Financial Service"
+  },
+  {
+    "name": "Insurance Agent",
+    "parentName": "Businesses > Finance > Insurance Company"
+  },
+  {
+    "name": "Insurance Broker",
+    "parentName": "Businesses > Finance > Insurance Company"
+  },
+  {
+    "name": "Brokerage Firm",
+    "parentName": "Businesses > Finance > Investing Service"
+  },
+  {
+    "name": "Hedge Fund",
+    "parentName": "Businesses > Finance > Investment Management Company"
+  },
+  {
+    "name": "Bagel Shop",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Wholesale Bakery",
+    "parentName": "Businesses > Food & Beverage > Bakery"
+  },
+  {
+    "name": "Bottled Water Company",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Brewery",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Bubble Tea Shop",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Butcher Shop",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Coffee Shop",
+    "parentName": "Businesses > Food & Beverage > Cafe"
+  },
+  {
+    "name": "Pet Cafe",
+    "parentName": "Businesses > Food & Beverage > Cafe"
+  },
+  {
+    "name": "Tea Room",
+    "parentName": "Businesses > Food & Beverage > Cafe"
+  },
+  {
+    "name": "Cafeteria",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Caterer",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Cheese Shop",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Convenience Store",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Deli",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Candy Store",
+    "parentName": "Businesses > Food & Beverage > Dessert Shop"
+  },
+  {
+    "name": "Chocolate Shop",
+    "parentName": "Businesses > Food & Beverage > Dessert Shop"
+  },
+  {
+    "name": "Cupcake Shop",
+    "parentName": "Businesses > Food & Beverage > Dessert Shop"
+  },
+  {
+    "name": "Frozen Yogurt Shop",
+    "parentName": "Businesses > Food & Beverage > Dessert Shop"
+  },
+  {
+    "name": "Gelato Shop",
+    "parentName": "Businesses > Food & Beverage > Dessert Shop"
+  },
+  {
+    "name": "Ice Cream Shop",
+    "parentName": "Businesses > Food & Beverage > Dessert Shop"
+  },
+  {
+    "name": "Shaved Ice Shop",
+    "parentName": "Businesses > Food & Beverage > Dessert Shop"
+  },
+  {
+    "name": "Distillery",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Donut Shop",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Farmers Market",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Foodservice Distributor",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Food Consultant",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Food Delivery Service",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Food Stand",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Food Truck",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Meat Wholesaler",
+    "parentName": "Businesses > Food & Beverage > Food Wholesaler"
+  },
+  {
+    "name": "Restaurant Wholesaler",
+    "parentName": "Businesses > Food & Beverage > Food Wholesaler"
+  },
+  {
+    "name": "Homebrew Supply Store",
+    "parentName": "Businesses > Food & Beverage > Wine, Beer & Spirits Store"
+  },
+  {
+    "name": "Personal Chef",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Afghan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Ethiopian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > African Restaurant"
+  },
+  {
+    "name": "Nigerian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > African Restaurant"
+  },
+  {
+    "name": "Senegalese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > African Restaurant"
+  },
+  {
+    "name": "South African Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > African Restaurant"
+  },
+  {
+    "name": "American Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Arabian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Asian Fusion Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Burmese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Cambodian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Anhui Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Beijing Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Cantonese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Dim Sum Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Dongbei Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Fujian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Guizhou Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Hainan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Henan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Hong Kong Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Hot Pot Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Huaiyang Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Hubei Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Hunan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Imperial Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Jiangsu Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Jiangxi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Macanese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Manchu Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Shaanxi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Shandong Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Shanghainese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Shanxi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Szechuan/Sichuan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Tianjin Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Xinjiang Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Yunnan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Zhejiang Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Chinese Restaurant"
+  },
+  {
+    "name": "Filipino Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Indo Chinese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Acehnese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Indonesian Restaurant"
+  },
+  {
+    "name": "Balinese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Indonesian Restaurant"
+  },
+  {
+    "name": "Betawinese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Indonesian Restaurant"
+  },
+  {
+    "name": "Javanese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Indonesian Restaurant"
+  },
+  {
+    "name": "Manadonese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Indonesian Restaurant"
+  },
+  {
+    "name": "Padangnese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Indonesian Restaurant"
+  },
+  {
+    "name": "Sundanese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Indonesian Restaurant"
+  },
+  {
+    "name": "Donburi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Kaiseki Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Kushikatsu Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Monjayaki Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Nabe Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Okonomiyaki Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Ramen Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Shabu Shabu Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Soba Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Sukiyaki Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Sushi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Takoyaki Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Tempura Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Teppanyaki Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Tonkatsu Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Udon Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Unagi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Wagashi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Yakiniku Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Yakitori Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Yoshoku Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Japanese Restaurant"
+  },
+  {
+    "name": "Bossam/Jokbal Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Korean Restaurant"
+  },
+  {
+    "name": "Bunsik Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Korean Restaurant"
+  },
+  {
+    "name": "Gukbap Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Korean Restaurant"
+  },
+  {
+    "name": "Janguh Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Korean Restaurant"
+  },
+  {
+    "name": "Samgyetang Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Korean Restaurant"
+  },
+  {
+    "name": "Malaysian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Mongolian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Noodle House",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Singaporean Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Taiwanese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Thai Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant"
+  },
+  {
+    "name": "Pho Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+  },
+  {
+    "name": "Australian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Austrian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Bar & Grill",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Barbecue Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Basque Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Belgian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Breakfast & Brunch Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "British Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Buffet Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Burger Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Cajun & Creole Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Canadian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Dominican Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Caribbean Restaurant"
+  },
+  {
+    "name": "Haitian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Caribbean Restaurant"
+  },
+  {
+    "name": "Jamaican Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Caribbean Restaurant"
+  },
+  {
+    "name": "Trinidadian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Caribbean Restaurant"
+  },
+  {
+    "name": "Catalan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Chicken Joint",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Comfort Food Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Continental Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Crêperie",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Czech Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Diner",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Drive In Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Belarusian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Eastern European Restaurant"
+  },
+  {
+    "name": "Bulgarian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Eastern European Restaurant"
+  },
+  {
+    "name": "Romanian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Eastern European Restaurant"
+  },
+  {
+    "name": "Tatar Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Eastern European Restaurant"
+  },
+  {
+    "name": "Egyptian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "European Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Family Style Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Fast Food Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Fish & Chips Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Fondue Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "French Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Gastropub",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Baden Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > German Restaurant"
+  },
+  {
+    "name": "Bavarian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > German Restaurant"
+  },
+  {
+    "name": "Hessian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > German Restaurant"
+  },
+  {
+    "name": "Palatine Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > German Restaurant"
+  },
+  {
+    "name": "Saxon Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > German Restaurant"
+  },
+  {
+    "name": "Swabian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > German Restaurant"
+  },
+  {
+    "name": "Gluten-Free Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Halal Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Hawaiian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Health Food Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Himalayan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Hot Dog Joint",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Hungarian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Iberian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Andhra Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Awadhi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Bengali/Bangladeshi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Chaat Place",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Chettinad Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Dhaba Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Dosa Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Goan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Gujarati Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Hyderabadi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Indian Chinese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Irani Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Jain Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Karnataka Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Kashmiri Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Kerala Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Maharashtrian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Mughalai Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "North Indian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Parsi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Punjabi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Rajasthani Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "South Indian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Tamilian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Udupi Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Uttar Pradesh Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Indian Restaurant"
+  },
+  {
+    "name": "Irish Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Abruzzo Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Aosta Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Basilicata Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Calabrian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Emilia Romagna Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Friuli Venezia Giulia Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Ligurian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Lombard Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Marche Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Molise Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Neapolitan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Piedmont Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Puglia Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Roman Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Sardinian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Sicilian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "South Tyrolean Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Trentino Alto Adige Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Tuscan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Umbrian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Venetian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Italian Restaurant"
+  },
+  {
+    "name": "Kosher Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Argentinian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Belizean Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Bolivian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Brazilian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Chilean Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Colombian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Costa Rican Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Cuban Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Ecuadorian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Guatemalan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Honduran Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Tex-Mex Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant > Mexican Restaurant"
+  },
+  {
+    "name": "Nicaraguan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Panamanian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Paraguayan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Peruvian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Puerto Rican Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Salvadoran Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Uruguayan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Venezuelan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Latin American Restaurant"
+  },
+  {
+    "name": "Live & Raw Food Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Greek Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Mediterranean Restaurant"
+  },
+  {
+    "name": "Armenian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant"
+  },
+  {
+    "name": "Azerbaijani Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant"
+  },
+  {
+    "name": "Georgian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant"
+  },
+  {
+    "name": "Israeli Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant"
+  },
+  {
+    "name": "Kurdish Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant"
+  },
+  {
+    "name": "Lebanese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant"
+  },
+  {
+    "name": "Persian/Iranian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant"
+  },
+  {
+    "name": "Syrian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant"
+  },
+  {
+    "name": "Kebab Shop",
+    "parentName": "Businesses > Food & Beverage > Restaurant > Middle Eastern Restaurant > Turkish Restaurant"
+  },
+  {
+    "name": "Modern European Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Molecular Gastronomy Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Moroccan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Nepalese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "New American Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Pakistani Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Pizza Place",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Polish Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Polynesian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Portuguese Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Russian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Salad Bar",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Scandinavian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Scottish Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Seafood Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Slovakian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Soul Food Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Soup Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Southern Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Southwestern Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Spanish Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Sri Lankan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Steakhouse",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Swiss Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Tapas Bar & Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Theme Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Ukrainian Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Uzbek Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Vegetarian/Vegan Restaurant",
+    "parentName": "Businesses > Food & Beverage > Restaurant"
+  },
+  {
+    "name": "Sandwich Shop",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Smoothie & Juice Bar",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Beer Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Beer Garden",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Champagne Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Cocktail Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Dive Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Gay Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Hookah Lounge",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Hotel Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Irish Pub",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Lounge",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Pub",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Sake Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Speakeasy",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Sports Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Tiki Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Whisky Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Wine Bar",
+    "parentName": "Businesses > Food & Beverage > Bar"
+  },
+  {
+    "name": "Ethnic Grocery Store",
+    "parentName": "Businesses > Food & Beverage > Grocery Store"
+  },
+  {
+    "name": "Fish Market",
+    "parentName": "Businesses > Food & Beverage > Grocery Store"
+  },
+  {
+    "name": "Fruit & Vegetable Store",
+    "parentName": "Businesses > Food & Beverage > Grocery Store"
+  },
+  {
+    "name": "Health Food Store",
+    "parentName": "Businesses > Food & Beverage > Grocery Store"
+  },
+  {
+    "name": "Organic Grocery Store",
+    "parentName": "Businesses > Food & Beverage > Grocery Store"
+  },
+  {
+    "name": "Specialty Grocery Store",
+    "parentName": "Businesses > Food & Beverage > Grocery Store"
+  },
+  {
+    "name": "Supermarket",
+    "parentName": "Businesses > Food & Beverage > Grocery Store"
+  },
+  {
+    "name": "Wholesale Grocer",
+    "parentName": "Businesses > Food & Beverage > Grocery Store"
+  },
+  {
+    "name": "Winery/Vineyard",
+    "parentName": "Businesses > Food & Beverage"
+  },
+  {
+    "name": "Bed and Breakfast",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "Cabin",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "Campground",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "Cottage",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "Hostel",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "Inn",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "Lodge",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "Motel",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "RV Park",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "Service Apartments",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "Beach Resort",
+    "parentName": "Businesses > Hotel & Lodging > Hotel"
+  },
+  {
+    "name": "Hotel Resort",
+    "parentName": "Businesses > Hotel & Lodging > Hotel"
+  },
+  {
+    "name": "Vacation Home Rental",
+    "parentName": "Businesses > Hotel & Lodging"
+  },
+  {
+    "name": "Bankruptcy Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Contract Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Corporate Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Criminal Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Divorce & Family Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "DUI Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Entertainment Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "General Litigation",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Immigration Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Internet Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Juvenile Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Labor & Employment Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Landlord & Tenant Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Malpractice Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Medical Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Military Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Intellectual Property Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Personal Injury Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Property Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Real Estate Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Tax Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Estate Planning Lawyer",
+    "parentName": "Businesses > Legal > Lawyer & Law Firm"
+  },
+  {
+    "name": "Bail Bondsmen",
+    "parentName": "Businesses > Legal > Legal Service"
+  },
+  {
+    "name": "Lobbyist",
+    "parentName": "Businesses > Legal > Legal Service"
+  },
+  {
+    "name": "Notary Public",
+    "parentName": "Businesses > Legal > Legal Service"
+  },
+  {
+    "name": "Private Investigator",
+    "parentName": "Businesses > Legal > Legal Service"
+  },
+  {
+    "name": "Process Service",
+    "parentName": "Businesses > Legal > Legal Service"
+  },
+  {
+    "name": "Adoption Service",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Astrologist",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Bicycle Repair Service",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Bottled Water Supplier",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Career Counselor",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Computer Repair Service",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Dating Service",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Modeling Agency",
+    "parentName": "Businesses > Local Service > Design & Fashion"
+  },
+  {
+    "name": "Dry Cleaner",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Ballroom",
+    "parentName": "Businesses > Local Service > Event Space"
+  },
+  {
+    "name": "Business Center",
+    "parentName": "Businesses > Local Service > Event Space"
+  },
+  {
+    "name": "Convention Center",
+    "parentName": "Businesses > Local Service > Event Space"
+  },
+  {
+    "name": "Wedding Venue",
+    "parentName": "Businesses > Local Service > Event Space"
+  },
+  {
+    "name": "Florist",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Funeral Service & Cemetery",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Genealogist",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Glass Blower",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Babysitter",
+    "parentName": "Businesses > Local Service > In-Home Service"
+  },
+  {
+    "name": "Child Care Service",
+    "parentName": "Businesses > Local Service > In-Home Service"
+  },
+  {
+    "name": "Cleaning Service",
+    "parentName": "Businesses > Local Service > In-Home Service"
+  },
+  {
+    "name": "House Sitter",
+    "parentName": "Businesses > Local Service > In-Home Service"
+  },
+  {
+    "name": "Maid & Butler",
+    "parentName": "Businesses > Local Service > In-Home Service"
+  },
+  {
+    "name": "Nanny",
+    "parentName": "Businesses > Local Service > In-Home Service"
+  },
+  {
+    "name": "Internet Cafe",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Junkyard",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Laundromat",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Locksmith",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Parking Garage / Lot",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Adult Entertainment Service",
+    "parentName": "Businesses > Local Service > Party Entertainment Service"
+  },
+  {
+    "name": "DJ",
+    "parentName": "Businesses > Local Service > Party Entertainment Service"
+  },
+  {
+    "name": "Kids Entertainment Service",
+    "parentName": "Businesses > Local Service > Party Entertainment Service"
+  },
+  {
+    "name": "Magician",
+    "parentName": "Businesses > Local Service > Party Entertainment Service"
+  },
+  {
+    "name": "Party & Entertainment Service",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Animal Shelter",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Dog Day Care Center",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Dog Trainer",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Dog Walker",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Horse Trainer",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Kennel",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Livery Stable",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Pet Adoption Service",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Pet Breeder",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Pet Groomer",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Pet Sitter",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Taxidermist",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Veterinarian",
+    "parentName": "Businesses > Local Service > Pet Service"
+  },
+  {
+    "name": "Amateur Photographer",
+    "parentName": "Businesses > Local Service > Photography Videography"
+  },
+  {
+    "name": "Camera Store",
+    "parentName": "Businesses > Local Service > Photography Videography"
+  },
+  {
+    "name": "Event Photographer",
+    "parentName": "Businesses > Local Service > Photography Videography"
+  },
+  {
+    "name": "Photo Booth Service",
+    "parentName": "Businesses > Local Service > Photography Videography"
+  },
+  {
+    "name": "Photographer",
+    "parentName": "Businesses > Local Service > Photography Videography"
+  },
+  {
+    "name": "Event Videographer",
+    "parentName": "Businesses > Local Service > Photography Videography"
+  },
+  {
+    "name": "Screen Printing & Embroidery",
+    "parentName": "Businesses > Local Service > Printing Service"
+  },
+  {
+    "name": "Signs & Banner Service",
+    "parentName": "Businesses > Local Service > Printing Service"
+  },
+  {
+    "name": "Astrologist & Psychic",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Sewing & Alterations",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Shoe Repair Shop",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Home Mover",
+    "parentName": "Businesses > Local Service > Moving & Storage Service"
+  },
+  {
+    "name": "Self-Storage Facility",
+    "parentName": "Businesses > Local Service > Moving & Storage Service"
+  },
+  {
+    "name": "Storage Facility",
+    "parentName": "Businesses > Local Service > Moving & Storage Service"
+  },
+  {
+    "name": "Business Consultant",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Business Supply Service",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Cargo & Freight Company",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Consulting Agency",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Recruiter",
+    "parentName": "Businesses > Local Service > Business Service > Employment Agency"
+  },
+  {
+    "name": "Franchising Service",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Graphic Designer",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Hospitality Service",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Janitorial Service",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Management Service",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Security Guard Service",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Personal Assistant",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Personal Coach",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Secretarial Service",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Shipping Supply & Service",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Shredding Service",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Translator",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Uniform Supplier",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Vending Machine Sales & Service",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Web Designer",
+    "parentName": "Businesses > Local Service > Business Service"
+  },
+  {
+    "name": "Bartending Service",
+    "parentName": "Businesses > Local Service > Event Planner"
+  },
+  {
+    "name": "Wedding Planning Service",
+    "parentName": "Businesses > Local Service > Event Planner"
+  },
+  {
+    "name": "Heating, Ventilating & Air Conditioning Service",
+    "parentName": "Businesses > Local Service > Home Improvement > Appliance Repair Service"
+  },
+  {
+    "name": "Refrigeration Service",
+    "parentName": "Businesses > Local Service > Home Improvement > Appliance Repair Service"
+  },
+  {
+    "name": "Water Heater Installation & Repair Service",
+    "parentName": "Businesses > Local Service > Home Improvement > Appliance Repair Service"
+  },
+  {
+    "name": "Architectural Designer",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Carpenter",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Carpet Cleaner",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Chimney Sweeper",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Concrete Contractor",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Construction Company",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Contractor",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Damage Restoration Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Deck & Patio Builder",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Electrician",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Elevator Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Demolition & Excavation Company",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Fence & Gate Contractor",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Fire Protection Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Furniture Repair & Upholstery Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Garage Door Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Gardener",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Glass Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Gutter Cleaning Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Handyman",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Home Security Company",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Home Window Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "House Painting",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Interior Design Studio",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Kitchen & Bath Contractor",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Landscape Company",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Lumber Yard",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Masonry Contractor",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Paving & Asphalt Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Pest Control Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Plumbing Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Portable Building Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Portable Toilet Rentals",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Powder Coating Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Roofing Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Sandblasting Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Septic Tank Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Sewer Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Solar Energy Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Swimming Pool Cleaner",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Swimming Pool & Hot Tub Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Tiling Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Tree Cutting Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Vinyl Siding Company",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Water Treatment Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Well Water Drilling Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Window Installation Service",
+    "parentName": "Businesses > Local Service > Home Improvement"
+  },
+  {
+    "name": "Weight Loss Center",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Writing Service",
+    "parentName": "Businesses > Local Service"
+  },
+  {
+    "name": "Animation Studio",
+    "parentName": "Businesses > Media/News Company"
+  },
+  {
+    "name": "Book & Magazine Distributor",
+    "parentName": "Businesses > Media/News Company"
+  },
+  {
+    "name": "Broadcasting & Media Production Company",
+    "parentName": "Businesses > Media/News Company"
+  },
+  {
+    "name": "Game Publisher",
+    "parentName": "Businesses > Media/News Company"
+  },
+  {
+    "name": "Movie/Television Studio",
+    "parentName": "Businesses > Media/News Company"
+  },
+  {
+    "name": "Music Production Studio",
+    "parentName": "Businesses > Media/News Company"
+  },
+  {
+    "name": "Radio Station",
+    "parentName": "Businesses > Media/News Company"
+  },
+  {
+    "name": "Social Media Company",
+    "parentName": "Businesses > Media/News Company"
+  },
+  {
+    "name": "Publisher",
+    "parentName": "Businesses > Media/News Company"
+  },
+  {
+    "name": "Cosmetic Dentist",
+    "parentName": "Businesses > Medical & Health > Dentist & Dental Office"
+  },
+  {
+    "name": "Endodontist",
+    "parentName": "Businesses > Medical & Health > Dentist & Dental Office"
+  },
+  {
+    "name": "General Dentist",
+    "parentName": "Businesses > Medical & Health > Dentist & Dental Office"
+  },
+  {
+    "name": "Oral Surgeon",
+    "parentName": "Businesses > Medical & Health > Dentist & Dental Office"
+  },
+  {
+    "name": "Orthodontist",
+    "parentName": "Businesses > Medical & Health > Dentist & Dental Office"
+  },
+  {
+    "name": "Pediatric Dentist",
+    "parentName": "Businesses > Medical & Health > Dentist & Dental Office"
+  },
+  {
+    "name": "Periodontist",
+    "parentName": "Businesses > Medical & Health > Dentist & Dental Office"
+  },
+  {
+    "name": "Prosthodontist",
+    "parentName": "Businesses > Medical & Health > Dentist & Dental Office"
+  },
+  {
+    "name": "Teeth Whitening Service",
+    "parentName": "Businesses > Medical & Health > Dentist & Dental Office"
+  },
+  {
+    "name": "AIDS Resource Center",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Blood Bank",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Crisis Prevention Center",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Diagnostic Center",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Dialysis Clinic",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Emergency Room",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Family Medicine Practice",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Halfway House",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Hospice",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Hospital",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Maternity Clinic",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Medical Lab",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Nursing Home",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Pregnancy Care Center",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Retirement & Assisted Living Facility",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "STD Testing Center",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Surgical Center",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Women's Health Clinic",
+    "parentName": "Businesses > Medical & Health > Medical Center"
+  },
+  {
+    "name": "Medical Device Company",
+    "parentName": "Businesses > Medical & Health"
+  },
+  {
+    "name": "Medical Equipment Manufacturer",
+    "parentName": "Businesses > Medical & Health"
+  },
+  {
+    "name": "Medical Equipment Supplier",
+    "parentName": "Businesses > Medical & Health"
+  },
+  {
+    "name": "Medical Research Center",
+    "parentName": "Businesses > Medical & Health"
+  },
+  {
+    "name": "Abortion Service",
+    "parentName": "Businesses > Medical & Health > Medical Service"
+  },
+  {
+    "name": "Addiction Resources Center",
+    "parentName": "Businesses > Medical & Health > Medical Service > Addiction Service"
+  },
+  {
+    "name": "Addiction Treatment Center",
+    "parentName": "Businesses > Medical & Health > Medical Service > Addiction Service"
+  },
+  {
+    "name": "Alcohol Addiction Treatment Center",
+    "parentName": "Businesses > Medical & Health > Medical Service > Addiction Service"
+  },
+  {
+    "name": "Drug Addiction Treatment Center",
+    "parentName": "Businesses > Medical & Health > Medical Service > Addiction Service"
+  },
+  {
+    "name": "Tobacco Cessation Treatment Center",
+    "parentName": "Businesses > Medical & Health > Medical Service > Addiction Service"
+  },
+  {
+    "name": "Acupuncturist",
+    "parentName": "Businesses > Medical & Health > Medical Service > Alternative & Holistic Health Service"
+  },
+  {
+    "name": "Medical Cannabis Dispensary",
+    "parentName": "Businesses > Medical & Health > Medical Service > Alternative & Holistic Health Service"
+  },
+  {
+    "name": "Chiropractor",
+    "parentName": "Businesses > Medical & Health > Medical Service > Alternative & Holistic Health Service"
+  },
+  {
+    "name": "Massage Therapist",
+    "parentName": "Businesses > Medical & Health > Medical Service > Alternative & Holistic Health Service"
+  },
+  {
+    "name": "Medical Spa",
+    "parentName": "Businesses > Medical & Health > Medical Service > Alternative & Holistic Health Service"
+  },
+  {
+    "name": "Meditation Center",
+    "parentName": "Businesses > Medical & Health > Medical Service > Alternative & Holistic Health Service"
+  },
+  {
+    "name": "Naturopath",
+    "parentName": "Businesses > Medical & Health > Medical Service > Alternative & Holistic Health Service"
+  },
+  {
+    "name": "Nutritionist",
+    "parentName": "Businesses > Medical & Health > Medical Service > Alternative & Holistic Health Service"
+  },
+  {
+    "name": "Reflexologist",
+    "parentName": "Businesses > Medical & Health > Medical Service > Alternative & Holistic Health Service"
+  },
+  {
+    "name": "Emergency Rescue Service",
+    "parentName": "Businesses > Medical & Health > Medical Service"
+  },
+  {
+    "name": "Mental Health Service",
+    "parentName": "Businesses > Medical & Health > Medical Service"
+  },
+  {
+    "name": "Disability Service",
+    "parentName": "Businesses > Medical & Health > Medical Service"
+  },
+  {
+    "name": "Healthcare Administrator",
+    "parentName": "Businesses > Medical & Health > Medical Service"
+  },
+  {
+    "name": "Home Health Care Service",
+    "parentName": "Businesses > Medical & Health > Medical Service"
+  },
+  {
+    "name": "Nursing Agency",
+    "parentName": "Businesses > Medical & Health > Medical Service"
+  },
+  {
+    "name": "Orthotics & Prosthetics Service",
+    "parentName": "Businesses > Medical & Health > Medical Service"
+  },
+  {
+    "name": "Reproductive Service",
+    "parentName": "Businesses > Medical & Health > Medical Service"
+  },
+  {
+    "name": "Safety & First Aid Service",
+    "parentName": "Businesses > Medical & Health > Medical Service"
+  },
+  {
+    "name": "Optician",
+    "parentName": "Businesses > Medical & Health"
+  },
+  {
+    "name": "Pharmaceutical Company",
+    "parentName": "Businesses > Medical & Health"
+  },
+  {
+    "name": "Medical Supply Store",
+    "parentName": "Businesses > Medical & Health > Pharmacy / Drugstore"
+  },
+  {
+    "name": "Vitamin Supplement Shop",
+    "parentName": "Businesses > Medical & Health > Pharmacy / Drugstore"
+  },
+  {
+    "name": "Counselor",
+    "parentName": "Businesses > Medical & Health > Therapist"
+  },
+  {
+    "name": "Family Therapist",
+    "parentName": "Businesses > Medical & Health > Therapist"
+  },
+  {
+    "name": "Marriage Therapist",
+    "parentName": "Businesses > Medical & Health > Therapist"
+  },
+  {
+    "name": "Occupational Therapist",
+    "parentName": "Businesses > Medical & Health > Therapist"
+  },
+  {
+    "name": "Physical Therapist",
+    "parentName": "Businesses > Medical & Health > Therapist"
+  },
+  {
+    "name": "Psychotherapist",
+    "parentName": "Businesses > Medical & Health > Therapist"
+  },
+  {
+    "name": "Sex Therapist",
+    "parentName": "Businesses > Medical & Health > Therapist"
+  },
+  {
+    "name": "Speech Pathologist",
+    "parentName": "Businesses > Medical & Health > Therapist"
+  },
+  {
+    "name": "Speech Therapist",
+    "parentName": "Businesses > Medical & Health > Therapist"
+  },
+  {
+    "name": "Sport Psychologist",
+    "parentName": "Businesses > Medical & Health > Therapist"
+  },
+  {
+    "name": "Allergist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Anesthesiologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Audiologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Cardiologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Dermatologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Endocrinologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Family Doctor",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Fertility Doctor",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Gastroenterologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Gerontologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Internist (Internal Medicine)",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Lasik/Laser Eye Surgeon",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Nephrologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Neurologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Neurosurgeon",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Obstetrician-Gynecologist (OBGYN)",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Oncologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Ophthalmologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Optometrist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Orthopedist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Osteopathic Doctor",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Otolaryngologist (ENT)",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Pediatrician",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Plastic Surgeon",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Podiatrist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Proctologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Psychiatrist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Psychologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Pulmonologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Radiologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Rheumatologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Surgeon",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Urologist",
+    "parentName": "Businesses > Medical & Health > Doctor"
+  },
+  {
+    "name": "Non-Governmental Organization (NGO)",
+    "parentName": "Businesses"
+  },
+  {
+    "name": "Nonprofit Organization",
+    "parentName": "Businesses"
+  },
+  {
+    "name": "Automotive Registration Center",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Child Protective Service",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Senior Center",
+    "parentName": "Businesses > Public & Government Service > Community Center"
+  },
+  {
+    "name": "Cultural Center",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Defense Company",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "DMV",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Food Bank",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Housing & Homeless Shelter",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Law Enforcement Agency",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Passport & Visa Service",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Public Service",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Electric Utility Provider",
+    "parentName": "Businesses > Public & Government Service > Public Utility Company"
+  },
+  {
+    "name": "Energy Company",
+    "parentName": "Businesses > Public & Government Service > Public Utility Company"
+  },
+  {
+    "name": "Internet Service Provider",
+    "parentName": "Businesses > Public & Government Service > Public Utility Company"
+  },
+  {
+    "name": "Television Service Provider",
+    "parentName": "Businesses > Public & Government Service > Public Utility Company"
+  },
+  {
+    "name": "Water Utility Company",
+    "parentName": "Businesses > Public & Government Service > Public Utility Company"
+  },
+  {
+    "name": "Social Service",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Library",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Waste Management Company",
+    "parentName": "Businesses > Public & Government Service"
+  },
+  {
+    "name": "Aerospace Company",
+    "parentName": "Businesses > Science, Technology & Engineering"
+  },
+  {
+    "name": "Biotechnology Company",
+    "parentName": "Businesses > Science, Technology & Engineering"
+  },
+  {
+    "name": "Gas & Chemical Service",
+    "parentName": "Businesses > Science, Technology & Engineering > Chemical Company"
+  },
+  {
+    "name": "Petroleum Service",
+    "parentName": "Businesses > Science, Technology & Engineering > Chemical Company"
+  },
+  {
+    "name": "Engineering Service",
+    "parentName": "Businesses > Science, Technology & Engineering"
+  },
+  {
+    "name": "Computer Company",
+    "parentName": "Businesses > Science, Technology & Engineering > Information Technology Company"
+  },
+  {
+    "name": "Electronics Company",
+    "parentName": "Businesses > Science, Technology & Engineering > Information Technology Company"
+  },
+  {
+    "name": "Internet Company",
+    "parentName": "Businesses > Science, Technology & Engineering > Information Technology Company"
+  },
+  {
+    "name": "Software Company",
+    "parentName": "Businesses > Science, Technology & Engineering > Information Technology Company"
+  },
+  {
+    "name": "Cable & Satellite Company",
+    "parentName": "Businesses > Science, Technology & Engineering > Information Technology Company > Telecommunication Company"
+  },
+  {
+    "name": "Robotics Company",
+    "parentName": "Businesses > Science, Technology & Engineering"
+  },
+  {
+    "name": "Solar Energy Company",
+    "parentName": "Businesses > Science, Technology & Engineering"
+  },
+  {
+    "name": "Structural Engineer",
+    "parentName": "Businesses > Science, Technology & Engineering"
+  },
+  {
+    "name": "Surveyor",
+    "parentName": "Businesses > Science, Technology & Engineering"
+  },
+  {
+    "name": "Barber Shop",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care"
+  },
+  {
+    "name": "Hair Salon",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Beauty Salon"
+  },
+  {
+    "name": "Nail Salon",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Beauty Salon"
+  },
+  {
+    "name": "Tanning Salon",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Beauty Salon"
+  },
+  {
+    "name": "Laser Hair Removal Service",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Hair Removal Service"
+  },
+  {
+    "name": "Sugaring Service",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Hair Removal Service"
+  },
+  {
+    "name": "Threading Service",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Hair Removal Service"
+  },
+  {
+    "name": "Waxing Service",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Hair Removal Service"
+  },
+  {
+    "name": "Hair Replacement Service",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care"
+  },
+  {
+    "name": "Hair Extensions Service",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care"
+  },
+  {
+    "name": "Image Consultant",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care"
+  },
+  {
+    "name": "Makeup Artist",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care"
+  },
+  {
+    "name": "Skin Care Service",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care"
+  },
+  {
+    "name": "Aromatherapy Service",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Spa"
+  },
+  {
+    "name": "Day Spa",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Spa"
+  },
+  {
+    "name": "Health Spa",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Spa"
+  },
+  {
+    "name": "Massage Service",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Spa"
+  },
+  {
+    "name": "Onsen",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care > Spa"
+  },
+  {
+    "name": "Beauty Supplier",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care"
+  },
+  {
+    "name": "Tattoo & Piercing Shop",
+    "parentName": "Businesses > Beauty, Cosmetic & Personal Care"
+  },
+  {
+    "name": "Adult Entertainment Club",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Water Park",
+    "parentName": "Businesses > Arts & Entertainment > Amusement & Theme Park"
+  },
+  {
+    "name": "Aquarium",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Arcade",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Art Gallery",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Betting Shop",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Bingo Hall",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Casino",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Circus",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Escape Game Room",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Haunted House",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Karaoke",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Drive-In Movie Theater",
+    "parentName": "Businesses > Arts & Entertainment > Movie Theater"
+  },
+  {
+    "name": "Dance & Night Club",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Pool & Billiard Hall",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Race Track",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Salsa Club",
+    "parentName": "Businesses > Arts & Entertainment"
+  },
+  {
+    "name": "Amphitheater",
+    "parentName": "Businesses > Arts & Entertainment > Performance & Event Venue"
+  },
+  {
+    "name": "Auditorium",
+    "parentName": "Businesses > Arts & Entertainment > Performance & Event Venue"
+  },
+  {
+    "name": "Comedy Club",
+    "parentName": "Businesses > Arts & Entertainment > Performance & Event Venue"
+  },
+  {
+    "name": "Jazz & Blues Club",
+    "parentName": "Businesses > Arts & Entertainment > Performance & Event Venue"
+  },
+  {
+    "name": "Live Music Venue",
+    "parentName": "Businesses > Arts & Entertainment > Performance & Event Venue"
+  },
+  {
+    "name": "Opera House",
+    "parentName": "Businesses > Arts & Entertainment > Performance & Event Venue"
+  },
+  {
+    "name": "Performance Art Theatre",
+    "parentName": "Businesses > Arts & Entertainment > Performance & Event Venue"
+  },
+  {
+    "name": "Asian Art Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Art Museum"
+  },
+  {
+    "name": "Cartooning Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Art Museum"
+  },
+  {
+    "name": "Contemporary Art Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Art Museum"
+  },
+  {
+    "name": "Costume Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Art Museum"
+  },
+  {
+    "name": "Decorative Arts Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Art Museum"
+  },
+  {
+    "name": "Design Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Art Museum"
+  },
+  {
+    "name": "Modern Art Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Art Museum"
+  },
+  {
+    "name": "Photography Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Art Museum"
+  },
+  {
+    "name": "Textile Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Art Museum"
+  },
+  {
+    "name": "Aviation Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum"
+  },
+  {
+    "name": "Children's Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum"
+  },
+  {
+    "name": "Civilization Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > History Museum"
+  },
+  {
+    "name": "Community Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > History Museum"
+  },
+  {
+    "name": "Computer Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Science Museum"
+  },
+  {
+    "name": "Observatory",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Science Museum"
+  },
+  {
+    "name": "Planetarium",
+    "parentName": "Businesses > Arts & Entertainment > Museum > Science Museum"
+  },
+  {
+    "name": "Sports Museum",
+    "parentName": "Businesses > Arts & Entertainment > Museum"
+  },
+  {
+    "name": "Petting Zoo",
+    "parentName": "Businesses > Arts & Entertainment > Zoo"
+  },
+  {
+    "name": "Wildlife Sanctuary",
+    "parentName": "Businesses > Arts & Entertainment > Zoo"
+  },
+  {
+    "name": "Automotive Manufacturer",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Motor Vehicle Company"
+  },
+  {
+    "name": "Motorcycle Manufacturer",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Motor Vehicle Company"
+  },
+  {
+    "name": "Aircraft Dealership",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Dealership"
+  },
+  {
+    "name": "ATV Dealership",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Dealership"
+  },
+  {
+    "name": "Automotive Wholesaler",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Dealership"
+  },
+  {
+    "name": "Boat Dealership",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Dealership"
+  },
+  {
+    "name": "Car Dealership",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Dealership"
+  },
+  {
+    "name": "Commercial Truck Dealership",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Dealership"
+  },
+  {
+    "name": "Golf Cart Dealership",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Dealership"
+  },
+  {
+    "name": "Motorcycle Dealership",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Dealership"
+  },
+  {
+    "name": "Recreational Vehicle Dealership",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Dealership"
+  },
+  {
+    "name": "Trailer Dealership",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Dealership"
+  },
+  {
+    "name": "Automotive Body Shop",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Auto Detailing Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Glass Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Leasing Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Consultant",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Customization Shop",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Repair Shop",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Restoration Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Shipping Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Storage Facility",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Wheel Polishing Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Boat Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Car Wash",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Emergency Roadside Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Smog Emissions Check Station",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Gas Station",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Marine Service Station",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Motorcycle Repair Shop",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Oil Lube & Filter Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "RV Repair Shop",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Tire Dealer & Repair Shop",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Towing Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Truck Repair Shop",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Wheel & Rim Repair Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Window Tinting Service",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Service"
+  },
+  {
+    "name": "Automotive Parts Store",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Store"
+  },
+  {
+    "name": "Car Stereo Store",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Store"
+  },
+  {
+    "name": "Marine Supply Store",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Store"
+  },
+  {
+    "name": "Motorsports Store",
+    "parentName": "Businesses > Automotive, Aircraft & Boat > Automotive Store"
+  },
+  {
+    "name": "Aviation Repair Station",
+    "parentName": "Businesses > Automotive, Aircraft & Boat"
+  },
+  {
+    "name": "Avionics Shop",
+    "parentName": "Businesses > Automotive, Aircraft & Boat"
+  },
+  {
+    "name": "Commercial Real Estate Agency",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Escrow Service",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Home Inspector",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Home Staging Service",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Housing Assistance Service",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Mobile Home Park",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Mobile Home Dealer",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Mortgage Brokers",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Property Management Company",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Real Estate Agent",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Real Estate Appraiser",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Real Estate Company",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Real Estate Developer",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Real Estate Investment Firm",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Real Estate Service",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Real Estate Title & Development",
+    "parentName": "Businesses > Real Estate"
+  },
+  {
+    "name": "Antique Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Bags & Luggage Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Accessories"
+  },
+  {
+    "name": "Hat Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Accessories"
+  },
+  {
+    "name": "Jewelry & Watches Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Accessories"
+  },
+  {
+    "name": "Sunglasses & Eyewear Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Accessories"
+  },
+  {
+    "name": "Bridal Shop",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Clothing Store"
+  },
+  {
+    "name": "Baby & Children's Clothing Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Clothing Store"
+  },
+  {
+    "name": "Costume Shop",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Clothing Store"
+  },
+  {
+    "name": "Lingerie & Underwear Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Clothing Store"
+  },
+  {
+    "name": "Maternity & Nursing Clothing Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Clothing Store"
+  },
+  {
+    "name": "Men's Clothing Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Clothing Store"
+  },
+  {
+    "name": "Footwear Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Clothing Store"
+  },
+  {
+    "name": "Sportswear Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Clothing Store"
+  },
+  {
+    "name": "Swimwear Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Clothing Store"
+  },
+  {
+    "name": "Women's Clothing Store",
+    "parentName": "Businesses > Shopping & Retail > Apparel & Clothing > Clothing Store"
+  },
+  {
+    "name": "Arts & Crafts Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Auction House",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Cosmetics Store",
+    "parentName": "Businesses > Shopping & Retail > Beauty Store"
+  },
+  {
+    "name": "Beauty Supply Store",
+    "parentName": "Businesses > Shopping & Retail > Beauty Store"
+  },
+  {
+    "name": "Wig Store",
+    "parentName": "Businesses > Shopping & Retail > Beauty Store"
+  },
+  {
+    "name": "Big Box Retailer",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Boutique Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Collectibles Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Cultural Gifts Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Department Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Discount Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Duty-Free Shop",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Movie & Music Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "E-Cigarette Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Educational Supply Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Audio Visual Equipment Store",
+    "parentName": "Businesses > Shopping & Retail > Electronics Store"
+  },
+  {
+    "name": "Computer Store",
+    "parentName": "Businesses > Shopping & Retail > Electronics Store"
+  },
+  {
+    "name": "Fabric Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Fireworks Retailer",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Flea Market",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Gift Shop",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Glass & Mirror Shop",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Gun Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Hobby Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Appliance Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Awning Supplier",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Blinds & Curtains Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Building Material Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Cabinet & Countertop Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Carpet & Flooring Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Fireplace Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Furniture Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Garden Center",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Hardware Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Home Theater Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Home Goods Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Lighting Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Mattress Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Nurseries & Gardening Store",
+    "parentName": "Businesses > Shopping & Retail > Home & Garden Store"
+  },
+  {
+    "name": "Lottery Retailer",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Mattress Wholesaler",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Mobile Phone Shop",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Musical Instrument Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Newsstand",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Night Market",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Office Equipment Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Outlet Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Moving Supply Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Carnival Supply Store",
+    "parentName": "Businesses > Shopping & Retail > Party Supply & Rental Shop"
+  },
+  {
+    "name": "Pawn Shop",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Aquatic Pet Store",
+    "parentName": "Businesses > Shopping & Retail > Pet Store"
+  },
+  {
+    "name": "Reptile Pet Store",
+    "parentName": "Businesses > Shopping & Retail > Pet Store"
+  },
+  {
+    "name": "Pop-Up Shop",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Rent to Own Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Restaurant Supply Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Retail Company",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Seasonal Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Shopping Mall",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Shopping Service",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Souvenir Shop",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Archery Shop",
+    "parentName": "Businesses > Shopping & Retail > Sporting Goods Store"
+  },
+  {
+    "name": "Bicycle Shop",
+    "parentName": "Businesses > Shopping & Retail > Sporting Goods Store"
+  },
+  {
+    "name": "Fishing Store",
+    "parentName": "Businesses > Shopping & Retail > Sporting Goods Store"
+  },
+  {
+    "name": "Mountain Biking Shop",
+    "parentName": "Businesses > Shopping & Retail > Sporting Goods Store"
+  },
+  {
+    "name": "Outdoor Equipment Store",
+    "parentName": "Businesses > Shopping & Retail > Sporting Goods Store"
+  },
+  {
+    "name": "Skate Shop",
+    "parentName": "Businesses > Shopping & Retail > Sporting Goods Store"
+  },
+  {
+    "name": "Ski & Snowboard Shop",
+    "parentName": "Businesses > Shopping & Retail > Sporting Goods Store"
+  },
+  {
+    "name": "Surf Shop",
+    "parentName": "Businesses > Shopping & Retail > Sporting Goods Store"
+  },
+  {
+    "name": "Outdoor & Sporting Goods Company",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Thrift & Consignment Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Tobacco Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "College / University Bookstore",
+    "parentName": "Businesses > Shopping & Retail > Bookstore"
+  },
+  {
+    "name": "Comic Bookstore",
+    "parentName": "Businesses > Shopping & Retail > Bookstore"
+  },
+  {
+    "name": "Independent Bookstore",
+    "parentName": "Businesses > Shopping & Retail > Bookstore"
+  },
+  {
+    "name": "Religious Bookstore",
+    "parentName": "Businesses > Shopping & Retail > Bookstore"
+  },
+  {
+    "name": "Toy Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Trophies & Engraving Shop",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Video Game Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Vintage Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Wholesale & Supply Store",
+    "parentName": "Businesses > Shopping & Retail"
+  },
+  {
+    "name": "Archery Range",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "ATV Recreation Park",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Badminton Court",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Baseball Field",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Basketball Court",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Batting Cage",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Bowling Alley",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Disc Golf Course",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Driving Range",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Equestrian Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Fencing Club",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Flyboarding Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Go-Kart Track",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Golf Course & Country Club",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Gun Range",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Gymnastics Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Hang Gliding Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Hockey Field / Rink",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Horseback Riding Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Ice Skating Rink",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Kiteboarding Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Laser Tag Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Miniature Golf Course",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Paddleboarding Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Paintball Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Racquetball Court",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Rafting/Kayaking Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Recreation Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Rock Climbing Gym",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Rodeo",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Roller Skating Rink",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Rugby Pitch",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Scuba Diving Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Shooting/Hunting Range",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Skateboard Park",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Ski Resort",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Skydiving Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Soccer Field",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Boxing Studio",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue > Fitness Venue"
+  },
+  {
+    "name": "Cycling Studio",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue > Fitness Venue"
+  },
+  {
+    "name": "Dance Studio",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue > Fitness Venue"
+  },
+  {
+    "name": "Fitness Boot Camp",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue > Fitness Venue"
+  },
+  {
+    "name": "Gym/Physical Fitness Center",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue > Fitness Venue"
+  },
+  {
+    "name": "Martial Arts School",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue > Fitness Venue"
+  },
+  {
+    "name": "Pilates Studio",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue > Fitness Venue"
+  },
+  {
+    "name": "Tai Chi Studio",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue > Fitness Venue"
+  },
+  {
+    "name": "Yoga Studio",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue > Fitness Venue"
+  },
+  {
+    "name": "Squash Court",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Public Swimming Pool",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Tennis Court",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Volleyball Court",
+    "parentName": "Businesses > Sports & Recreation > Sports & Recreation Venue"
+  },
+  {
+    "name": "Boat / Sailing Instructor",
+    "parentName": "Businesses > Sports & Recreation > Sports & Fitness Instruction"
+  },
+  {
+    "name": "Coach",
+    "parentName": "Businesses > Sports & Recreation > Sports & Fitness Instruction"
+  },
+  {
+    "name": "Golf Instructor",
+    "parentName": "Businesses > Sports & Recreation > Sports & Fitness Instruction"
+  },
+  {
+    "name": "Horse Riding School",
+    "parentName": "Businesses > Sports & Recreation > Sports & Fitness Instruction"
+  },
+  {
+    "name": "Fitness Trainer",
+    "parentName": "Businesses > Sports & Recreation > Sports & Fitness Instruction"
+  },
+  {
+    "name": "Scuba Instructor",
+    "parentName": "Businesses > Sports & Recreation > Sports & Fitness Instruction"
+  },
+  {
+    "name": "Ski & Snowboard School",
+    "parentName": "Businesses > Sports & Recreation > Sports & Fitness Instruction"
+  },
+  {
+    "name": "Swimming Instructor",
+    "parentName": "Businesses > Sports & Recreation > Sports & Fitness Instruction"
+  },
+  {
+    "name": "Amateur Sports League",
+    "parentName": "Businesses > Sports & Recreation > Sports League"
+  },
+  {
+    "name": "Esports League",
+    "parentName": "Businesses > Sports & Recreation > Sports League"
+  },
+  {
+    "name": "Professional Sports League",
+    "parentName": "Businesses > Sports & Recreation > Sports League"
+  },
+  {
+    "name": "School Sports League",
+    "parentName": "Businesses > Sports & Recreation > Sports League"
+  },
+  {
+    "name": "Amateur Sports Team",
+    "parentName": "Businesses > Sports & Recreation > Sports Team"
+  },
+  {
+    "name": "Esports Team",
+    "parentName": "Businesses > Sports & Recreation > Sports Team"
+  },
+  {
+    "name": "Professional Sports Team",
+    "parentName": "Businesses > Sports & Recreation > Sports Team"
+  },
+  {
+    "name": "School Sports Team",
+    "parentName": "Businesses > Sports & Recreation > Sports Team"
+  },
+  {
+    "name": "Baseball Stadium",
+    "parentName": "Businesses > Sports & Recreation > Stadium, Arena & Sports Venue"
+  },
+  {
+    "name": "Basketball Stadium",
+    "parentName": "Businesses > Sports & Recreation > Stadium, Arena & Sports Venue"
+  },
+  {
+    "name": "Cricket Ground",
+    "parentName": "Businesses > Sports & Recreation > Stadium, Arena & Sports Venue"
+  },
+  {
+    "name": "Football Stadium",
+    "parentName": "Businesses > Sports & Recreation > Stadium, Arena & Sports Venue"
+  },
+  {
+    "name": "Hockey Arena",
+    "parentName": "Businesses > Sports & Recreation > Stadium, Arena & Sports Venue"
+  },
+  {
+    "name": "Rugby Stadium",
+    "parentName": "Businesses > Sports & Recreation > Stadium, Arena & Sports Venue"
+  },
+  {
+    "name": "Soccer Stadium",
+    "parentName": "Businesses > Sports & Recreation > Stadium, Arena & Sports Venue"
+  },
+  {
+    "name": "Tennis Stadium",
+    "parentName": "Businesses > Sports & Recreation > Stadium, Arena & Sports Venue"
+  },
+  {
+    "name": "Track Stadium",
+    "parentName": "Businesses > Sports & Recreation > Stadium, Arena & Sports Venue"
+  },
+  {
+    "name": "Airline Company",
+    "parentName": "Businesses > Travel & Transportation"
+  },
+  {
+    "name": "Airline Industry Service",
+    "parentName": "Businesses > Travel & Transportation"
+  },
+  {
+    "name": "Bus Line",
+    "parentName": "Businesses > Travel & Transportation"
+  },
+  {
+    "name": "Cruise Line",
+    "parentName": "Businesses > Travel & Transportation"
+  },
+  {
+    "name": "Boat/Ferry Company",
+    "parentName": "Businesses > Travel & Transportation"
+  },
+  {
+    "name": "Railroad Company",
+    "parentName": "Businesses > Travel & Transportation"
+  },
+  {
+    "name": "ATV Rental",
+    "parentName": "Businesses > Travel & Transportation > Rental Shop"
+  },
+  {
+    "name": "Bike Rental",
+    "parentName": "Businesses > Travel & Transportation > Rental Shop"
+  },
+  {
+    "name": "Boat Rental",
+    "parentName": "Businesses > Travel & Transportation > Rental Shop"
+  },
+  {
+    "name": "Canoe & Kayak Rental",
+    "parentName": "Businesses > Travel & Transportation > Rental Shop"
+  },
+  {
+    "name": "Car Rental",
+    "parentName": "Businesses > Travel & Transportation > Rental Shop"
+  },
+  {
+    "name": "Exotic Car Rental",
+    "parentName": "Businesses > Travel & Transportation > Rental Shop"
+  },
+  {
+    "name": "Jet Ski Rental",
+    "parentName": "Businesses > Travel & Transportation > Rental Shop"
+  },
+  {
+    "name": "Scooter Rental",
+    "parentName": "Businesses > Travel & Transportation > Rental Shop"
+  },
+  {
+    "name": "Trailer  Rental",
+    "parentName": "Businesses > Travel & Transportation > Rental Shop"
+  },
+  {
+    "name": "Truck Rental",
+    "parentName": "Businesses > Travel & Transportation > Rental Shop"
+  },
+  {
+    "name": "Airport Shuttle Service",
+    "parentName": "Businesses > Travel & Transportation > Transportation Service"
+  },
+  {
+    "name": "Charter Bus Service",
+    "parentName": "Businesses > Travel & Transportation > Transportation Service"
+  },
+  {
+    "name": "Limo Service",
+    "parentName": "Businesses > Travel & Transportation > Transportation Service"
+  },
+  {
+    "name": "Private Plane Charter",
+    "parentName": "Businesses > Travel & Transportation > Transportation Service"
+  },
+  {
+    "name": "Rideshare Service",
+    "parentName": "Businesses > Travel & Transportation > Transportation Service"
+  },
+  {
+    "name": "School Transportation Service",
+    "parentName": "Businesses > Travel & Transportation > Transportation Service"
+  },
+  {
+    "name": "Taxi Service",
+    "parentName": "Businesses > Travel & Transportation > Transportation Service"
+  },
+  {
+    "name": "Airport Gate",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub"
+  },
+  {
+    "name": "Airport Lounge",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub"
+  },
+  {
+    "name": "Airport Terminal",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub"
+  },
+  {
+    "name": "Balloonport",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub"
+  },
+  {
+    "name": "Bus Station",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub"
+  },
+  {
+    "name": "Heliport",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub"
+  },
+  {
+    "name": "Seaplane Base",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub"
+  },
+  {
+    "name": "Airport",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub"
+  },
+  {
+    "name": "Light Rail Station",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub > Train Station"
+  },
+  {
+    "name": "Railway Station",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub > Train Station"
+  },
+  {
+    "name": "Subway Station",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub > Train Station"
+  },
+  {
+    "name": "Transit Stop",
+    "parentName": "Businesses > Travel & Transportation > Transit Hub"
+  },
+  {
+    "name": "Architectural Tour Agency",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Art Tour Agency",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Boat Tour Agency",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Bus Tour Agency",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Eco Tour Agency",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Food Tour Agency",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Historical Tour Agency",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Horse-Drawn Carriage Service",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Hot Air Balloon Tour Agency",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Pedicab Service",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Sightseeing Tour Agency",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Tour Guide",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Tour Agency"
+  },
+  {
+    "name": "Cruise Agency",
+    "parentName": "Businesses > Travel & Transportation > Travel Company > Travel Agency"
+  },
+  {
+    "name": "Luggage Service",
+    "parentName": "Businesses > Travel & Transportation > Travel Service"
+  },
+  {
+    "name": "Tourist Information Center",
+    "parentName": "Businesses > Travel & Transportation > Travel Service"
+  },
+  {
+    "name": "Art",
+    "parentName": "Media"
+  },
+  {
+    "name": "Article",
+    "parentName": "Media > Books & Magazines"
+  },
+  {
+    "name": "Book",
+    "parentName": "Media > Books & Magazines"
+  },
+  {
+    "name": "Book Genre",
+    "parentName": "Media > Books & Magazines"
+  },
+  {
+    "name": "Book Series",
+    "parentName": "Media > Books & Magazines"
+  },
+  {
+    "name": "Magazine",
+    "parentName": "Media > Books & Magazines"
+  },
+  {
+    "name": "Newspaper",
+    "parentName": "Media > Books & Magazines"
+  },
+  {
+    "name": "Concert Tour",
+    "parentName": "Media"
+  },
+  {
+    "name": "Art Restoration Service",
+    "parentName": "Media > Media Restoration Service"
+  },
+  {
+    "name": "Show",
+    "parentName": "Media"
+  },
+  {
+    "name": "Album",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Choir",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Music Award",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Music Chart",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Musical Genre",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Music Video",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Playlist",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Podcast",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Record Label",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Song",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Symphony",
+    "parentName": "Media > Music"
+  },
+  {
+    "name": "Theatrical Play",
+    "parentName": "Media"
+  },
+  {
+    "name": "Theatrical Productions",
+    "parentName": "Media"
+  },
+  {
+    "name": "Episode",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "Movie",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "Movie Character",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "Movie Genre",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "TV Channel",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "TV",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "TV Genre",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "TV/Movie Award",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "TV Network",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "One-Time TV Program",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "TV Season",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "TV Show",
+    "parentName": "Media > TV & Movies"
+  },
+  {
+    "name": "Video",
+    "parentName": "Media > TV & Movies"
+  }
+]
